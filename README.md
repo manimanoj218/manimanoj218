@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 # 💫 About Me:
 I’m currently working on widget creation which will be embedded on top of other sites which gives <br>information related to Visa process and related stuff.
 
@@ -22,4 +21,3 @@ I’m currently working on widget creation which will be embedded on top of othe
 [![](https://visitcount.itsvg.in/api?id=manimanoj218&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
